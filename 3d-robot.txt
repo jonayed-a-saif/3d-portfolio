@@ -1,0 +1,4 @@
+<div class="md:absolute  md:flex md:fixed" >
+                <script type="module" src="https://unpkg.com/@splinetool/viewer@1.10.38/build/spline-viewer.js"></script>
+        <spline-viewer data-aos="flip-down" data-aos-duration="2000" class="md:height-100 w-full h-[300px] md:w-[400px] md:h-[400px] lg:w-[500px] lg:h-[500px] mx-auto md:mx-0" url="https://prod.spline.design/id6YGAPF27G8gkNK/scene.splinecode"></spline-viewer>
+        </div>
